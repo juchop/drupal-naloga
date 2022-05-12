@@ -1,0 +1,3 @@
+services:
+    drupalup_block.date_calculator:
+        class: Drupal\drupalup_block\DateCalculator
